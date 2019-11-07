@@ -46,3 +46,7 @@ pip3 -V
 ```
 
 8. 安装pipenv
+
+[几个命令](https://www.cnblogs.com/ZGreMount/p/7668749.html)
+[虚拟机不能联网问题](https://blog.csdn.net/cyn_653620/article/details/80301540)
+[ssh登陆虚拟机](https://www.cnblogs.com/lxg0/p/6413965.html)
