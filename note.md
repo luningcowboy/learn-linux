@@ -53,3 +53,4 @@ pip3 -V
 [安装git](https://www.cnblogs.com/flying_bat/p/11088113.html)
 报错:`致命错误：curl/curl.h：没有那个文件或目录 #include "curl/curl.h`
 解决方案:`yum -y install curl-devel`
+SSH登陆VirtualBox:`ssh -p 9022 root@localhost`
