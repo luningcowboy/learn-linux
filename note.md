@@ -50,3 +50,6 @@ pip3 -V
 [几个命令](https://www.cnblogs.com/ZGreMount/p/7668749.html)
 [虚拟机不能联网问题](https://blog.csdn.net/cyn_653620/article/details/80301540)
 [ssh登陆虚拟机](https://www.cnblogs.com/lxg0/p/6413965.html)
+[安装git](https://www.cnblogs.com/flying_bat/p/11088113.html)
+报错:`致命错误：curl/curl.h：没有那个文件或目录 #include "curl/curl.h`
+解决方案:`yum -y install curl-devel`
